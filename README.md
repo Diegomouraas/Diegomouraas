@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Diego Moura from Brasil.
 - 🎓 &nbsp;Mechanical engineering student.
-- 👀 &nbsp;I’m interested in developing amazing projects that make me happy!!
+- 👀 &nbsp;I’m interested in developing amazing projects that makes me happy!!
 - 🌱 &nbsp;I’m currently learning Electronics, C++, Python and general Android development.
 
 ---
