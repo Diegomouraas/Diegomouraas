@@ -11,6 +11,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ---
+### ⚙️ &nbsp;GitHub Analytics
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegomouraas&show_icons=true&theme=gotham)
+
+---
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
