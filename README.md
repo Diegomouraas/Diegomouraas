@@ -1,6 +1,7 @@
-![](https://www.nasa.gov/sites/default/files/thumbnails/image/master_image.jpg)
+![](https://www.russelllands.com/blog/wp-content/uploads/banner-saturn-v-launch.jpg?w=200)
+<!---
 <a data-flickr-embed="true" href="https://www.russelllands.com/blog/wp-content/uploads/banner-saturn-v-launch.jpg" title="Apollo 8 launch"><img src="https://www.russelllands.com/blog/wp-content/uploads/banner-saturn-v-launch.jpg" alt="Apollo 8 launch"></a>
-
+--->
 <!---
 ### 👋 Hi, I’m Diego Moura from Brasil.
 - 🎓 &nbsp;Mechanical engineering student.
